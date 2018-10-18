@@ -1,7 +1,7 @@
 libSBOLjRunner
 ===============
 
-libSBOLjRunner is the test runner that tests the [libSBOLj] (https://github.com/SynBioDex/libSBOLj/releases) application for compliance of the [SBOL Standard] (http://sbolstandard.org/). This test runner can be run as a standalone application, but it's intended purpose is to run it using the [SBOLTestRunner] (https://github.com/mehersam/SBOLTestRunner). The application follows the Simple Round-trip approach as described within the github link to SBOLTestRunner. The application takes as input an SBOL data file and imports the file into libSBOLjRunner and exports an SBOL data file. The purpose of this process is to ensure the libSBOLj does not internally perform any data changes to SBOL data on import. Additionally, this proces also identifies any unstated changes and test its overall compliance of the SBOL Standard.  
+libSBOLjRunner is the test runner that tests the [libSBOLj](https://github.com/SynBioDex/libSBOLj/releases) application for compliance of the [SBOL Standard](http://sbolstandard.org/). This test runner can be run as a standalone application, but it's intended purpose is to run it using the [SBOLTestRunner](https://github.com/mehersam/SBOLTestRunner). The application follows the Simple Round-trip approach as described within the github link to SBOLTestRunner. The application takes as input an SBOL data file and imports the file into libSBOLjRunner and exports an SBOL data file. The purpose of this process is to ensure the libSBOLj does not internally perform any data changes to SBOL data on import. Additionally, this proces also identifies any unstated changes and test its overall compliance of the SBOL Standard.  
 
 ### Retrieving libSBOLjRunner
 
