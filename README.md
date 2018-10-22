@@ -7,8 +7,7 @@ libSBOLjRunner is the test runner that tests the [libSBOLj](https://github.com/S
 
 1. [Create](https://github.com/) a GitHub account.
 2. [Setup](https://help.github.com/articles/set-up-git) Git on your machine.
-3. [Clone](https://help.github.com/articles/cloning-a-repository/) the SBOLRunners GitHub repository to your machine.
-
+3. Follow instructions on the [SBOLTestRunners](https://github.com/mehersam/SBOLTestRunners) Github repository to retrieve individual test runners.
 
 ### Compiling and Packaging libSBOLjRunner 
 
